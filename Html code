@@ -1,0 +1,26 @@
+<DOCTYPE html>
+<html>
+<head>
+    <title>Anthonys github page</title>
+
+<body>
+
+    <h1>About ME</h1>
+    <p>
+        Hi! My name is Anthony. I went to Clyde-Savannah high in newyork.  Some of my favorite hobbies include, playing video games, rugby, and hanging out with friends!
+    </p>
+ 
+    <h2>My Favorite Food</h2>
+    <img src="Food.jpg" alt="My favorite food" width="300">
+    
+    <h2>Software Engineering
+
+    <p>
+
+    <a href="https://www.rit.edu/study/software-engineering-bs">
+    </a>
+
+  <ul>
+      <li>Learn Coding Languages</li>
+      <li>Learn How to use Github</li>
+      <li>Build Websites</li>
